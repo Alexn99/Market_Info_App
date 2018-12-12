@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:16:1-56:12
+INJECTED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:16:1-56:12
+INJECTED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:16:1-56:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\501094c6696f7b0b597ed67a18e66f8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\4299e7811bec32555c39345b3deb05e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\d1265ffc1314f19ec9cde827d55e9940\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\d963a0a03925bd12b7f110a008ab3eee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\be964abd15e85fbd76dda3c238097bb8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\32ecf82a8f9d501fce2fc3348237ecec\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1110342d9496b3c93ca9dce2a0d58757\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\065e0210b46dc8d6896ee752839e3594\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\aeed6b53b3feaf8d1e46ebb035e1bfdf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\63e0c1a5da84cfe552fa4b8265e24aaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ca953215c73b4ac9eef96fed47bca41a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\640b89dd77d075e6c471858529ac3cbe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a4753fc99c3a97d6d447a2f12f9f3c49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\d1b07dc29bd695f5b81833f55207ec83\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\e52bc2ed939cf6078c209bda7a9619d0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:16:1-56:12
+INJECTED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:16:1-56:12
+	package
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:17:5-47
+	android:versionName
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:21:22-64
+application
+ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:24:5-54:19
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\32ecf82a8f9d501fce2fc3348237ecec\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\32ecf82a8f9d501fce2fc3348237ecec\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1110342d9496b3c93ca9dce2a0d58757\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1110342d9496b3c93ca9dce2a0d58757\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:28:9-40
+activity#com.example.android.recyclerview.MainActivity
+ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:29:9-32:20
+	android:label
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:30:13-41
+activity#com.example.android.recyclerview.Tech
+ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:33:9-35:59
+	android:label
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:34:13-33
+activity#com.example.android.recyclerview.Health
+ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:36:9-38:38
+	android:label
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:38:13-35
+	android:name
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:37:13-35
+activity#com.example.android.recyclerview.Financials
+ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:39:9-41:42
+	android:label
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:41:13-39
+	android:name
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:40:13-39
+activity#com.example.android.recyclerview.StockSearch
+ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:42:9-44:44
+	android:label
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:44:13-41
+	android:name
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:43:13-40
+activity#com.example.android.recyclerview.SplashScreen
+ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:45:9-53:20
+	android:label
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:47:13-51
+	android:name
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:46:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml:51:27-74
+uses-sdk
+INJECTED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\501094c6696f7b0b597ed67a18e66f8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\501094c6696f7b0b597ed67a18e66f8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\4299e7811bec32555c39345b3deb05e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\4299e7811bec32555c39345b3deb05e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\d1265ffc1314f19ec9cde827d55e9940\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\d1265ffc1314f19ec9cde827d55e9940\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\d963a0a03925bd12b7f110a008ab3eee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\d963a0a03925bd12b7f110a008ab3eee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\be964abd15e85fbd76dda3c238097bb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\be964abd15e85fbd76dda3c238097bb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\32ecf82a8f9d501fce2fc3348237ecec\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\32ecf82a8f9d501fce2fc3348237ecec\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1110342d9496b3c93ca9dce2a0d58757\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1110342d9496b3c93ca9dce2a0d58757\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\065e0210b46dc8d6896ee752839e3594\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\065e0210b46dc8d6896ee752839e3594\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\aeed6b53b3feaf8d1e46ebb035e1bfdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\aeed6b53b3feaf8d1e46ebb035e1bfdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\63e0c1a5da84cfe552fa4b8265e24aaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\63e0c1a5da84cfe552fa4b8265e24aaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ca953215c73b4ac9eef96fed47bca41a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\ca953215c73b4ac9eef96fed47bca41a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\640b89dd77d075e6c471858529ac3cbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\640b89dd77d075e6c471858529ac3cbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a4753fc99c3a97d6d447a2f12f9f3c49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a4753fc99c3a97d6d447a2f12f9f3c49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\d1b07dc29bd695f5b81833f55207ec83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\d1b07dc29bd695f5b81833f55207ec83\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\e52bc2ed939cf6078c209bda7a9619d0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\muell\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\e52bc2ed939cf6078c209bda7a9619d0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\muell\Desktop\mobileDev\android-RecyclerView\Application\src\main\AndroidManifest.xml
