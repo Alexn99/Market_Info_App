@@ -40,7 +40,7 @@ public class SplashScreen extends SampleActivityBase {
         });
     }
     private void addChanges(String change) {
-        if (change.contains(": \n-")) {
+        if (change.contains(": -")) {
             losses[lossesPosition++] = change;
         } else {
             wins[winPosition++] = change;
@@ -73,7 +73,7 @@ public class SplashScreen extends SampleActivityBase {
                         public void onResponse(final JSONObject response) {
                             try {
                                 Log.d(TAG + "!", (response.getJSONObject("quote")).getString("changePercent"));
-                                addChanges(response.getJSONObject("quote").getString("companyName") + "\n(" + symbol + "): " + response.getJSONObject("quote").getString("changePercent") + "%");
+                                addChanges(response.getJSONObject("quote").getString("companyName") + "\n(" + symbol + "): " + String.format("%.3g%%", /*Float.toString(*/100*Float.parseFloat(response.getJSONObject("quote").getString("changePercent")), "%"));
                                 //Log.d(TAG, toReturn);
                             } catch (Exception e) {
                                 addChanges(symbol);

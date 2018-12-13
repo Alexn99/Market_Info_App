@@ -261,7 +261,7 @@ public class MainActivity extends SampleActivityBase {
                         public void onResponse(final JSONObject response) {
                             try {
                                 Log.d(TAG + "!", (response.getJSONObject("quote")).getString("changePercent"));
-                                addChanges(response.getJSONObject("quote").getString("companyName") + "\n(" + symbol + "): " + response.getJSONObject("quote").getString("changePercent") + "%", position, type);
+                                addChanges(response.getJSONObject("quote").getString("companyName") + "\n(" + symbol + "): " + String.format("%.3g%%", 100*Float.parseFloat(response.getJSONObject("quote").getString("changePercent")), "%"), position, type);
                                 //addChanges(symbol + ": " + response.getJSONObject("quote").getString("changePercent") + "%", position, type);
                                 //Log.d(TAG, toReturn);
                             } catch (Exception e) {
