@@ -201,7 +201,7 @@ public class MainActivity extends SampleActivityBase {
                                 //Log.d(TAG + "Search", (response.getJSONObject("quote")).getString("changePercent"));
                                 searchInfo[1] = "Symbol: " + symbol;
                                 Log.d(TAG + "Symbol", searchInfo[0]);
-                                searchInfo[3] = "Today's change: " + response.getJSONObject("quote").getString("changePercent") + "%";
+                                searchInfo[3] = "Today's change: " + String.format("%.3g%%", 100*Float.parseFloat(response.getJSONObject("quote").getString("changePercent")), "%");
                                 Log.d(TAG + "change%", searchInfo[1]);
                                 searchInfo[0] = "Company Name: " + response.getJSONObject("quote").getString("companyName");
                                 Log.d(TAG + "companyName", searchInfo[2]);
